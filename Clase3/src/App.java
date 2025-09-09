@@ -3,5 +3,6 @@ public class App {
         System.out.println("Helao a 100 pesos");
         System.out.println("que le pasa, tan muy caros");
         System.out.println("la inflacion mano");
+        System.out.println("tenes razón");
     }
 }
