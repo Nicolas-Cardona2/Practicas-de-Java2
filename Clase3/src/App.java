@@ -2,5 +2,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Helao a 100 pesos");
         System.out.println("que le pasa, tan muy caros");
+        System.out.println("la inflacion mano");
     }
 }
